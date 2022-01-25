@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+good moning
+=======
+good morning all
+>>>>>>> greeting
+=======
+HELLO
+>>>>>>> e6147bfc7288d6624c054fcc2c48d55827c00dfa
