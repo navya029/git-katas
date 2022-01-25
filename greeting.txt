@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Original file content
+=======
+HELLO
+>>>>>>> 84f0ced1462e624f5822969b1383d660cfda89ef
+=======
+HELLO
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+good moning
+=======
+good morning all
+>>>>>>> greeting
+=======
+HELLO
+>>>>>>> e6147bfc7288d6624c054fcc2c48d55827c00dfa
+>>>>>>> 20afc8b0eb29cb1ea7414d9749336b7e9f8abd12
+>>>>>>> 8f658e93b3e025841d0b8acd959093bfa940d7de
