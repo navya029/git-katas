@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-good morning
+good moning
 =======
 good morning all
 >>>>>>> greeting
