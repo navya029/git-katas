@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Original file content
+=======
+HELLO
+>>>>>>> 84f0ced1462e624f5822969b1383d660cfda89ef
